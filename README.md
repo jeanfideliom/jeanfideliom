@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
 # Hi! I am Jean
 
 I am a motivated Computer Science student at New Era University with a passion for problem-solving, learning new technologies, and applying innovative solutions to complex computing challenges.
@@ -16,7 +20,7 @@ I am a motivated Computer Science student at New Era University with a passion f
 
 | Certificate Name | Organization | Date Earned |
 | ---------------- | ------------ | ------------ |
-| [AI Fundamentals with IBM SkillsBuild](https://www.credly.com/badges/4e59bc9f-60aa-4af1-95e3-df2584adc854) | IBM | July 14, 2024 |
+| [AI Fundamentals with IBM SkillsBuild](https://www.credly.com/badges/4e59bc9f-60aa-4af1-95e3-df2584adc854) | Cisco | July 14, 2024 |
 | [Introduction to Data Science](https://www.credly.com/badges/7e816e23-e9d9-4595-9366-d733c8904b50) | Cisco | June 27, 2024 |
 | [Data Analytics Essentials](https://www.credly.com/badges/afc31a07-0197-41a4-95ad-f8b41d5bd9a0) | Cisco | January 03, 2024 |
 | [Artificial Intelligence Fundamentals](https://www.credly.com/badges/5c8ad73b-d100-442f-a4e1-f30b142123de) | IBM | July 14, 2024 |
@@ -37,5 +41,5 @@ I am a motivated Computer Science student at New Era University with a passion f
 
 ## Socials
 
-- [GitHub](https://github.com/jeanfideliom)
-- [LinkedIn](https://linkedin.com/in/jeanfideliom)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jeanfideliom)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeanfideliom)
